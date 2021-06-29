@@ -1,0 +1,75 @@
+{
+    "basic_info_list": [
+        "Zaid",
+        "kamil",
+        "https://www.linkedin.com/in/zaid-kamil-94211a40/"
+    ],
+    "education_info_list": [
+        [
+            "Sikkim Manipal University - Distance Education",
+            "Master of Computer Applications - MCA",
+            "Computer Programming",
+            "2016",
+            "A"
+        ],
+        [
+            "Lucknow University",
+            "Bachelor of Science (BSc)",
+            "Chemistry",
+            "2010",
+            ""
+        ],
+        [
+            "Colvin Taluqdars college",
+            "intermediate",
+            "Chemistry",
+            "2007",
+            ""
+        ]
+    ],
+    "projects_info_list": [],
+    "certifications_info_list": [
+        [
+            "Associate Android Developer",
+            "      \nMay 2017",
+            "      \n\n        BadgeCert"
+        ],
+        [
+            "Duolingo French Fluency: Elementary (Estimated)",
+            "      \nOct 2015",
+            "      \n\n        Duolingo"
+        ],
+        [
+            "Associate Android Developer",
+            "      \nMay 2017Expired\n                      May 2020",
+            "      \n\n        Google Developers"
+        ]
+    ],
+    "experience_info_list": [
+        [
+            "digipodium",
+            "Android & Python Expert",
+            "Nov 2017 \u2013 Present",
+            ""
+        ],
+        [
+            "TrainEdge",
+            "Computer trainer",
+            "Nov 2014 \u2013 Oct 2017",
+            "Developer and trainer  for  Android, Python and PHP"
+        ],
+        [
+            "UPTEC",
+            "Systems Officer",
+            "May 2012 \u2013 Oct 2014",
+            ""
+        ]
+    ],
+    "skills_info_list": [
+        "Android Development",
+        "Python",
+        "PHP"
+    ],
+    "volunteer_info_list": [],
+    "accomplishments_info_list": []
+}

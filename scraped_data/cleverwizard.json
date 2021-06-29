@@ -1,0 +1,53 @@
+{
+    "basic_info_list": [
+        "Aman",
+        "Upadhyay",
+        "https://www.linkedin.com/in/cleverwizard/"
+    ],
+    "education_info_list": [
+        [
+            "Swami Vivekanand Group of Institutions",
+            "Master of Technology - MTech",
+            "Computer Science",
+            "2021",
+            ""
+        ],
+        [
+            "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+            "Bachelor of Technology (BTech)",
+            "Computer Science",
+            "2018",
+            ""
+        ],
+        [
+            "Seventh Day Adventist Higher Secondary School",
+            "",
+            "Science",
+            "2014",
+            "High School and Intermediate"
+        ]
+    ],
+    "projects_info_list": [],
+    "certifications_info_list": [
+        [
+            "Telesales Professional",
+            "Credential Identifier\n      \n\n        Credential ID 6605671-282",
+            "      \n\n        Aspiring Minds"
+        ]
+    ],
+    "experience_info_list": [
+        [
+            "XRM Labs",
+            "Microsoft Dynamics Consultant",
+            "Feb 2018 \u2013 Present",
+            "With more than 12 years of experience, we can well say that we are experts in the areas of consulting, implementation, customization, migration & integration.With Microsoft Dynamics CRM and SharePoint at the core of our services since our inception, we know what it takes to develop, improve & retain customer relationships.\n  \n      \n\u2026\n.   see more"
+        ]
+    ],
+    "skills_info_list": [
+        "Microsoft Dynamics CRM",
+        "Microsoft Power Automate",
+        "C#"
+    ],
+    "volunteer_info_list": [],
+    "accomplishments_info_list": []
+}

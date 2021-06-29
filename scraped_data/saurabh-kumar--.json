@@ -1,0 +1,56 @@
+{
+    "basic_info_list": [
+        "Saurabh",
+        "Kumar",
+        "https://www.linkedin.com/in/saurabh-kumar--/"
+    ],
+    "education_info_list": [
+        [
+            "SHRI RAMSWAROOP MEMORIAL COLLEGE OF ENGINEERING AND MANAGEMENT, LUCKNOW",
+            "Bachelor of Technology - BTech",
+            "Computer Science",
+            "2017",
+            ""
+        ],
+        [
+            "Rani Laxmi Bai Memorial Senior Secondary School.",
+            "Intermediate",
+            "",
+            "2013",
+            ""
+        ]
+    ],
+    "projects_info_list": [],
+    "certifications_info_list": [
+        [
+            "Microsoft Certified: Azure Fundamentals",
+            "      \nJun 2021",
+            "      \n\n        Microsoft"
+        ],
+        [
+            "Java",
+            "      \nFeb 2021",
+            "      \n\n        Udemy"
+        ],
+        [
+            "Azure basics",
+            "      \nOct 2020",
+            "      \n\n        Udemy"
+        ]
+    ],
+    "experience_info_list": [
+        [
+            "Tata Consultancy Services",
+            "Company Name\nTata Consultancy Services",
+            "Mar 2020 \u2013 Present",
+            ""
+        ]
+    ],
+    "skills_info_list": [
+        "Jenkins",
+        "GIT",
+        "Maven"
+    ],
+    "volunteer_info_list": [],
+    "accomplishments_info_list": []
+}
